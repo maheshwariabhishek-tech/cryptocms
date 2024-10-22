@@ -10,7 +10,7 @@ i18n
     resources: {
       en: {
         translation: {
-          zahraMirzaei: "Zahra Mirzaei",
+          zahraMirzaei: "Abhishek",
           admin: "admin",
           dashboard: "Dashboard",
           orders: "Orders",
